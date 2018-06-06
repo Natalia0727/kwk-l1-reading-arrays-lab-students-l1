@@ -1,4 +1,4 @@
-# Listing Classmates
+ # Listing Classmates
 
 This is a group lab, so make sure you are working in a group of 2-4 students
 
